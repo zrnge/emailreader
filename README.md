@@ -2,7 +2,7 @@
 ![python version](https://img.shields.io/badge/Python-3.8%2B-green)
 ![pypi version](https://img.shields.io/badge/pypi-0.55.0-blue)
 
-A lightweight Python/Tkinter application to read .eml and .msg email files, view headers/body, and extract attachments — with optional HTML preview and one-click Windows EXE packaging.
+A lightweight Python/Tkinter application to read .eml and .msg email files, view headers/body, and extract attachments - with optional HTML preview and one-click Windows EXE packaging.
 
 # Email Reader & Attachment Extractor
 
