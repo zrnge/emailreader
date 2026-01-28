@@ -32,7 +32,7 @@ cd emailreader
 ```   
 pip install -r requirements.txt
 ```
-Converting to a Windows EXE
+## Converting to a Windows EXE
    
 You can create a standalone .exe so users don’t need Python installed.
 
